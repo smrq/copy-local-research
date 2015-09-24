@@ -1,0 +1,25 @@
+{
+  "name": "copy-local-research",
+  "version": "1.0.0",
+  "description": "",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Greg Smith <smr.kyu@gmail.com> (http://github.com/smrq)",
+  "license": "MIT",
+  "engines": {
+    "node": ">=4"
+  },
+  "dependencies": {
+    "del": "^2.0.2",
+    "event-stream": "^3.3.1",
+    "graphviz": "0.0.8",
+    "guid": "0.0.12",
+    "gulp": "^3.9.0",
+    "gulp-clone": "^1.0.0",
+    "gulp-rename": "^1.2.2",
+    "gulp-template": "^3.0.0",
+    "run-sequence": "^1.1.4"
+  },
+  "private": true
+}
